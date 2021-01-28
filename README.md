@@ -15,8 +15,6 @@ Ejemplo:
 
 localhost/suplos/upddb.php
 
-Descomprimir el comprimido excel.rar
-
 Posterior a ello simplemente podemos ingresar al archivo index.php y validar lo solicitado en la prueba.
 
 Gracias
